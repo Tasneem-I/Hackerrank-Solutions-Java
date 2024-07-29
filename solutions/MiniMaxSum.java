@@ -1,6 +1,4 @@
-
-/*question link : https://www.hackerrank.com/challenges/one-month-preparation-kit-mini-max-sum
-*/
+/*question link : https://www.hackerrank.com/challenges/one-month-preparation-kit-mini-max-sum*/
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -31,7 +29,7 @@ class Result {
 
 }
 
-public class Solution {
+public class MiniMaxSum {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
